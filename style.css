@@ -1,0 +1,10 @@
+
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table tr td:last-child{
+    width: 120px;
+}
